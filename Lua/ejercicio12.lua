@@ -1,0 +1,1 @@
+for a=1,1000,1 do print(a) end
